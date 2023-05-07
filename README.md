@@ -1,2 +1,1 @@
-# PrepCourseHenry6
-Prueba PrepCourse Henry intento 6
+Prueba de clonacion desde Github a desktop
